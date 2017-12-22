@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "async-await",
+    "prettier"
+  ],
+  "extends": [
+    "../../.eslintrc",
+    "prettier",
+    "react-app"
+  ]
+}
